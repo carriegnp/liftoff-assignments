@@ -1,5 +1,6 @@
 # Project Outline
-For this assignment, you will submit a high-level outline of your project. This can, and likely will, change over time. In particular, your mentor will provide direction and feedback to help sharpen your ideas. So don't worry if you feel unsure about some aspects of the outline or if you have to change some things later.
+
+
 
 ## Assignment Description
 [Project Outline Assignment](https://education.launchcode.org/liftoff/modules/assignments/project-outline)
@@ -7,12 +8,31 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+
+to build a website serving a Bed & Breakfast business.
+
+I used to do a lot of backpacking travellings, and found a good website to allow me an easier / efficient commuinication with the hostels were very helpful. 
+
+In my experience, a website that can offer the customers an efficient way of selecting time, type of room, room descripton, price, transportation tools, nearby explore, food would be very outstanding.
+
 ### Features
-Include Features here
+
+Drop Down List: a complete drop down list for type of room, food service, price, transporation tools, nearby explores
+Search: Users will be able to search for any services that they are interested by typing in the key word.
+Reservation process: will need to think about a user friendly reservation interaction face.
+
 ### Technologies
-Include Technologies here
+Python
+Flask
+MySQL
+SQLAlchemy
+Jinja2 templates
+JavaScript
+HTML
+CSS
+
 ### What I'll Have to Learn
-Include what you will need to learn here
+I want to further practise my HTML and CSS, learn JavaScript and make a nice website that can be fuctional in the business world.
+
 ### Project Tracker
-Link to your Trello board here
+Will set up the Trello Board later.
