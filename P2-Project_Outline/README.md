@@ -9,24 +9,22 @@
 
 ### Overview
 
-to build a website serving a Bed & Breakfast business.
+to build a website serving textbooks sell and buy on campus.
 
-I used to do a lot of backpacking travellings, and found a good website to allow me an easier / efficient commuinication with the hostels were very helpful. 
-
-In my experience, a website that can offer the customers an efficient way of selecting time, type of room, room descripton, price, transportation tools, nearby explore, food would be very outstanding.
+All college students could have one platform (website) to go and click where they are located (geographically), and the campus where they are currently in to sell or buy sencond handed textbooks.
 
 ### Features
 
-Drop Down List: a complete drop down list for type of room, food service, price, transporation tools, nearby explores
-Search: Users will be able to search for any services that they are interested by typing in the key word.
-Reservation process: will need to think about a user friendly reservation interaction face.
+Drop Down List: State, City, Colleges.
+Search: textbook buyer will be able to search for book by ISBN, Author, Title, Class Name...
+Database: User Account Data (Book Sellers)
 
 ### Technologies
-Python
-Flask
+Java
+Spring Boot
 MySQL
-SQLAlchemy
-Jinja2 templates
+TomCat
+Thymleaf templates
 JavaScript
 HTML
 CSS
@@ -35,4 +33,4 @@ CSS
 I want to further practise my HTML and CSS, learn JavaScript and make a nice website that can be fuctional in the business world.
 
 ### Project Tracker
-Will set up the Trello Board later.
+Will set up the GitHub Project.
